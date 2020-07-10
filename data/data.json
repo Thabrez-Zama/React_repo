@@ -1,0 +1,25 @@
+{
+    "profiles":[
+        {
+            "basic":{
+                "name":"Thabrez",
+                "role":"Student",
+                "Phone":"9502342333",
+                "email":"thabrez918@gmail.com"
+                
+
+            }
+        },
+        {
+            "basic":{
+                "name":"Parvez",
+                "role":"Student",
+                "Phone":"6304321115",
+                "email":"parvez918@gmail.com"
+               
+
+        }
+    }
+
+    ]
+}
